@@ -202,7 +202,7 @@ setInterval(function () {
   let date = new Date();
   if (date >= newyear) {
     if (!newYearAlready) {
-      year.innerHTML = '2020';
+      year.innerHTML = '2024';
       startFireworks = true;
       timeleft.innerHTML = 'Happy New Year!';
     }
